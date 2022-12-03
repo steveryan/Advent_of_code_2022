@@ -37,4 +37,5 @@ def get_priority_total(overlap_array)
   priority_total
 end
 
-p part2(data)
+p "Part 1: #{part1(data)}"
+p "Part 2: #{part2(data)}"
